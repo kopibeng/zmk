@@ -1,0 +1,14 @@
+identifier: xt8x_bt
+name: XT8x_BT
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - adc
+  - usb_device
+  - ble
+  - ieee802154
+  - pwm
+  - watchdog

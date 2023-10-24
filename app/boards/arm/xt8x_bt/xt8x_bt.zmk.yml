@@ -1,0 +1,12 @@
+file_format: "1"
+id: xt8x_bt
+name: XT8x_BT
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+outputs:
+  - usb
+  - ble
+url: https://github.com/kopibeng
